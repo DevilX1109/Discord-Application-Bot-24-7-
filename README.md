@@ -27,7 +27,7 @@ Set your questions in `index.js`
 
 ## Setup Or Run
 
-**1st:** Make Bot Application from ![DISCORD DEVELOPER PORTAL](https://discord.com/developers/applications/)
+**1st:** Make Bot Application from (https://discord.com/developers/applications/)
 
 **2nd:** Invite Your Bot in your server.
 
