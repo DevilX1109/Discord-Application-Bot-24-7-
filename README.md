@@ -22,7 +22,7 @@ Set your questions in `index.js`
   
 ## Made with ❤️ and javascript
 
-![GITHUB](https://github.com/DevilX#1109)
+![GITHUB](https://github.com/DevilX1109)
 
 
 ## Setup Or Run
